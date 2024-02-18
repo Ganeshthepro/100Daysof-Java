@@ -11,8 +11,10 @@ public class arrinput {
         arr[i] = sc.nextInt();
     }
 
-    for( int j = 0; j <arr.length;j++){
-        System.out.print(arr[j]+" ");
-    }
-}
-}
+    // for( int j = 0; j <arr.length;j++){
+    //     System.out.print(arr[j]+" ");
+    // }
+
+    System.out.println(Arrays.toString(arr));
+   }
+} 
