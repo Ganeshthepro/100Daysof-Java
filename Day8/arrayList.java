@@ -16,7 +16,9 @@ public class arrayList {
 
     System.out.println(list);
 
-    list.set(1,45);
+    list.set(1,45); // updating elements in list
+
+    list.remove(3);
 
     System.out.println(list);
     }
