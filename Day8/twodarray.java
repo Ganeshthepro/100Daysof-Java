@@ -15,7 +15,7 @@ public class twodarray {
                 arr[row][columns]= sc.nextInt();
             }
         }
-
+                            
         // for(int row=0; row< arr.length; row++){
         //     for(int columns=0;columns<arr[row].length;columns++){
         //        System.out.print(arr[row][columns]+" ");
